@@ -7,5 +7,6 @@ class program
         Console.WriteLine("hello jenish");
         Console.WriteLine("how are you");
         Console.WriteLine("hey");
+        console.writeline("jenish");
             }
 }
